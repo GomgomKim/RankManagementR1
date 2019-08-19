@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127797238525",
+    "firebase_url": "https://youngran-8ab42.firebaseio.com",
+    "project_id": "youngran-8ab42",
+    "storage_bucket": "youngran-8ab42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127797238525:android:57f05b90daa07cc6",
+        "android_client_info": {
+          "package_name": "com.example.youngran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127797238525-s8e6vpc3saolgvpgni0k006d1tgu1coh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqoA22s-QBGiY1gcELtyiz0iZ1vchotKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127797238525-s8e6vpc3saolgvpgni0k006d1tgu1coh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
